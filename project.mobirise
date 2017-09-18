@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-170911",
-    "currentPage": "page18.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -457,7 +457,7 @@
               "text-align": "center"
             },
             "H2": {
-              "color": "#ff7f9f",
+              "color": "#55b4d4",
               "text-align": "center"
             }
           },
@@ -15327,7 +15327,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#121212\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Je travaille actuellement à mon compte comme monteur / truquiste / étalonneur.</b></p><p><b style=\"font-size: 1.09rem;\">Je m'occupe de la partie post-production de votre projet, que ce soit une pub, un documentaire, une fiction, un projet télé ou encore de l'institutionnel.</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#121212\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Je travaille actuellement à mon compte comme monteur / truquiste / étalonneur.</b></p><p><b style=\"font-size: 1.09rem;\">J'ai à mon actif plusieurs années d'expériences dans tous les domaines de l'audiovisuel, ce qui me permet d'être polyvalentJe m'occupe de la partie post-production de votre projet, que ce soit une pub, un documentaire, une fiction, un projet télé ou encore de l'institutionnel.</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "quVpXQ8aSU",
           "_anchor": "content2-30",
           "_protectedParams": [],
