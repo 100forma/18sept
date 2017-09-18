@@ -13827,40 +13827,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-qvChmRw4QZ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #fafafa;
-}
-.cid-qvChmRw4QZ h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qvChmRw4QZ .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-qvChmRw4QZ .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qvChmRw4QZ .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-qvChmRw4QZ ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-qvChmRw4QZ path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qvChmRw4QZ .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
 .cid-quyOLcWURx .navbar {
   padding: .5rem 0;
   background: #121212;
