@@ -13768,15 +13768,6 @@ body {
 .cid-quVmF23Wkh H2 {
   color: #808080;
 }
-.cid-quVpXQ8aSU {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #121212;
-}
-.cid-quVpXQ8aSU .mbr-text,
-.cid-quVpXQ8aSU blockquote {
-  color: #767676;
-}
 .cid-quVmM4Uz71 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -13836,77 +13827,39 @@ body {
     width: 100% !important;
   }
 }
-.cid-qvCcgAZACL {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #121212;
+.cid-qvChmRw4QZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fafafa;
 }
-.cid-qvCcgAZACL .progress {
-  width: 100%;
-}
-.cid-qvCcgAZACL progress {
-  height: 8px;
-}
-.cid-qvCcgAZACL h3 {
+.cid-qvChmRw4QZ h3 {
   text-align: center;
   font-weight: 300;
 }
-.cid-qvCcgAZACL .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qvCcgAZACL .progress_value {
-  position: relative;
-}
-.cid-qvCcgAZACL .progress_elements {
+.cid-qvChmRw4QZ .wrap {
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
 }
-.cid-qvCcgAZACL .title-wrap {
-  display: -webkit-flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
+.cid-qvChmRw4QZ .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-qvCcgAZACL .progress1 .progressbar-number:before,
-.cid-qvCcgAZACL .progress2 .progressbar-number:before,
-.cid-qvCcgAZACL .progress3 .progressbar-number:before,
-.cid-qvCcgAZACL .progress4 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
+.cid-qvChmRw4QZ .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
 }
-.cid-qvCcgAZACL progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
+.cid-qvChmRw4QZ ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
 }
-.cid-qvCcgAZACL progress::-webkit-progress-value {
-  background: #149dcc;
+.cid-qvChmRw4QZ path {
+  stroke: #149dcc;
 }
-.cid-qvCcgAZACL progress[value]::-moz-progress-bar {
-  background: #149dcc;
-}
-.cid-qvCcgAZACL progress::-ms-fill {
-  background: #149dcc;
-}
-.cid-qvCcgAZACL .progress1 .progressbar-number:before {
-  content: '75';
-}
-.cid-qvCcgAZACL .progress2 .progressbar-number:before {
-  content: '44';
-}
-.cid-qvCcgAZACL .progress3 .progressbar-number:before {
-  content: '32';
-}
-.cid-qvCcgAZACL .progress4 .progressbar-number:before {
-  content: '100';
-}
-.cid-qvCcgAZACL .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-qvCcgAZACL .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-qvCcgAZACL .progress_value span {
-  padding-left: 30px;
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qvChmRw4QZ .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
 }
 .cid-quyOLcWURx .navbar {
   padding: .5rem 0;
