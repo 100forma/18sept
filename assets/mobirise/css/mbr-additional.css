@@ -1622,17 +1622,16 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-quUWzXZbXG {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qvBMAUVMLE {
+  padding-top: 75px;
+  padding-bottom: 15px;
   background-color: #121212;
 }
-.cid-quUWzXZbXG .mbr-section-subtitle {
-  color: #767676;
+.cid-qvBMAUVMLE .mbr-section-subtitle {
+  color: #cccccc;
 }
-.cid-quUWzXZbXG H2 {
+.cid-qvBMAUVMLE H2 {
   color: #808080;
-  text-align: left;
 }
 .cid-quyOTz5Y3K {
   padding-top: 30px;
@@ -1652,12 +1651,38 @@ body {
   padding-top: 2rem;
 }
 .cid-quyOTz5Y3K .card-title {
-  color: #767676;
+  color: #cccccc;
 }
 .cid-quyOTz5Y3K P {
   color: #e4a408;
 }
 .cid-quyOTz5Y3K B {
+  color: #cccccc;
+}
+.cid-qvoTLkgNqG {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #121212;
+}
+.cid-qvoTLkgNqG h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qvoTLkgNqG p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qvoTLkgNqG .card-box {
+  padding-top: 2rem;
+}
+.cid-qvoTLkgNqG .card-title {
+  color: #cccccc;
+}
+.cid-qvoTLkgNqG P {
+  color: #e4a408;
+}
+.cid-qvoTLkgNqG B {
   color: #cccccc;
 }
 .cid-qvoSxgSwdX {
@@ -1678,7 +1703,7 @@ body {
   padding-top: 2rem;
 }
 .cid-qvoSxgSwdX .card-title {
-  color: #767676;
+  color: #cccccc;
 }
 .cid-qvoSxgSwdX P {
   color: #e4a408;
@@ -1704,7 +1729,7 @@ body {
   padding-top: 2rem;
 }
 .cid-qvtIQEAEQs .card-title {
-  color: #767676;
+  color: #cccccc;
 }
 .cid-qvtIQEAEQs P {
   color: #e4a408;
@@ -1733,38 +1758,12 @@ body {
   color: #465052;
 }
 .cid-quVDxl5zBV .card-title B {
-  color: #767676;
+  color: #cccccc;
 }
 .cid-quVDxl5zBV P {
   color: #e19309;
 }
 .cid-quVDxl5zBV B {
-  color: #cccccc;
-}
-.cid-qvoTLkgNqG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #121212;
-}
-.cid-qvoTLkgNqG h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qvoTLkgNqG p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qvoTLkgNqG .card-box {
-  padding-top: 2rem;
-}
-.cid-qvoTLkgNqG .card-title {
-  color: #767676;
-}
-.cid-qvoTLkgNqG P {
-  color: #e4a408;
-}
-.cid-qvoTLkgNqG B {
   color: #cccccc;
 }
 .cid-quUWhGO6Az {
